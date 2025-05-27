@@ -52,4 +52,4 @@ O e-mail deve conter uma tabela HTML com as seguintes colunas:
 
 - O script deve ser executado manualmente quando necessário
 - Certifique-se de que o Outlook está aberto antes de executar
-- As credenciais do Cobmais devem ser mantidas seguras no arquivo .env 
+- As credenciais do CRM devem ser mantidas seguras no arquivo .env 
